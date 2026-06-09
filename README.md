@@ -1,3 +1,36 @@
+# Nike Brand Landing Page
+
+A modern and responsive Nike-inspired brand landing page built using React.js and Vite. The application showcases Nike products through an engaging user interface with smooth navigation, product highlights, store locations, company information, and a professional contact section.
+
+### Features
+
+* Responsive navigation bar with smooth scrolling
+* Hero section with call-to-action buttons
+* Featured Nike products showcase
+* Store locations section
+* About Nike company section
+* Professional contact form with support information
+* Modern footer with social media links
+* Mobile-friendly responsive design
+* Reusable React components
+* Clean and maintainable CSS architecture
+
+### Tech Stack
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Key Learnings
+
+* Component-based architecture in React
+* Responsive web design principles
+* Layout design using Flexbox and CSS Grid
+* State and event handling in React
+* Project structuring and reusable UI components
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
